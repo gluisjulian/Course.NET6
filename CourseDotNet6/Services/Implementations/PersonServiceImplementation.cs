@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace CourseDotNet6.Services.Implementations
 {
-    public class IPersonServiceImplementation : IPersonService
+    public class PersonServiceImplementation : IPersonService
     {
 
         public List<Person> FindAll()
